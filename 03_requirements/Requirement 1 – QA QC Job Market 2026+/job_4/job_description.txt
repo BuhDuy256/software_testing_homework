@@ -1,0 +1,44 @@
+Full job description
+WORK LOCATION
+Ho Chi Minh
+
+LEVEL
+Junior, Middle
+
+EXPIRATION DATE
+30 Jun,2026
+
+
+JOB DESCRIPTION
+Test Execution: Execute manual test cases to ensure product quality and functionality.
+Defect Reporting: Identify, document, and track defects using defect management tools.
+Test Case Development: Develop and maintain comprehensive test cases based on project requirements and specifications.
+Regression Testing: Conduct regression testing to ensure that new features do not adversely affect existing functionalities.
+Collaboration: Work closely with cross-functional teams, including developers, product managers, and other stakeholders, to resolve issues.
+Documentation: Maintain accurate documentation of test results, defect reports, and test case modifications.
+Continuous Improvement: Participate in process improvement initiatives and contribute to best practices in quality assurance.
+Training and Development: Stay updated on industry trends and advancements in quality control methodologies and tools.
+YOUR SKILLS AND EXPERIENCE
+Bachelor’s degree in Computer Science, Information Technology, Logistics, Supply Chain Management, or a related field.
+From 2 years of experience in quality control or software testing. Knowledge of various types of testing, such as unit testing, integration testing, system testing, and acceptance testing.
+Technical Skills:
+Basic understanding of software development lifecycle (SDLC) and testing concepts.
+Proficiency in using bug tracking tools (e.g., Jira) and test management tools to organize test cases, track defects, and manage test execution.
+Analytical Skills: Ability to analyze requirements and identify test scenarios.
+Strong problem-solving skills and attention to detail.
+Ability to write clear and comprehensive test documentation.
+English: Effective communication skills to collaborate with developers, product managers, and other stakeholders.
+Team Player: Ability to work collaboratively in a team environment.
+WHY YOU'LL LOVE WORKING HERE
+Well-trained and dedicated to being able to catch the pace smoothly
+Basic salary: It will be based on the ability of the candidate and the general salary framework set by the company.
+Salary review based on performance every 6 months if your basic salary is less than 30,000,000 VND. If your basic salary is from 30,000,000 VND, it will be reviewed every year
+13th-month salary and bonus for holidays
+Team building once a month
+Company trip: 1 time/year
+Full social benefits in accordance with the company and the law of Vietnam
+Professional environment and clear procedures.
+Great opportunity to improve English
+Opportunity to learn Logistics and professional management system of project development process
+(Please be noted that only selected candidates will be contacted via phone)
+

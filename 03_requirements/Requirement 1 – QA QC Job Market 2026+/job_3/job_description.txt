@@ -1,0 +1,52 @@
+Full job description
+What We Need
+Oivan is seeking a Junior Quality Assurance Engineer (QA) with 3+ years of experience and other relevant technologies to join our growing Ho Chi Minh City teams.
+
+We offer the unique opportunity to work and improve your skills with a diverse and geographically distributed team of technology and business experts around the world. We have offices in Helsinki (Finland), Khon Kaen (Thailand), Bangkok (Thailand), Abu Dhabi (UAE) and Riyadh (KSA) and Vietnam.
+
+Our project team uses Scrum framework via Scrum.org certified Professional Scrum Masters.
+
+We have flexible hours and remote work options with open culture and Nordic management style. Our Nordic spirit and values drive the way we work always.
+
+
+What You'll Do
+Design, develop, and execute automated test scripts for web/mobile applications.
+Utilize AI assistants to generate boilerplate code, refactor test scripts, and debug complex automation issues efficiently.
+Monitor and update existing test suites to ensure they evolve alongside our product features.
+Work closely with Developers to identify high-priority test cases for automation.
+Document clear, concise bug reports and track defects through their entire lifecycle.
+What You Have
+At least 3 years of experience in relevant roles
+Must be able to work Saudi Arabia hours (13:00 – 21:00, Sunday to Thursday)
+Good verbal and written English skills
+Good communication skills and ability to work within a team
+Automation Fundamentals: proficiency in at least one programming language (e.g., Ruby, or JavaScript)
+Strong understanding of the Software Testing Life Cycle (STLC) and bug-hunting techniques.
+Ability to translate manual test cases into logical, efficient automated scripts.
+Proven ability to use AI tools to speed up coding tasks and solve logical problems.
+Experience with Cypress or Capybara is nice to have.
+What We Offer
+Hybrid work
+MacBook Pro, screen protector, mouse, and headphones
+Premium insurance
+Company paid team lunch weekly
+Travel opportunity to Oivan international locations and client sites
+International team and work opportunities overseas.
+Unlimited premium snacks/healthy food, coffee, and drinks at the office
+Self-study time and company-sponsored opportunities for development (+2 hours per week)
+15 days annual leave
+10 days of paid paternity leave when having a baby.
+15 sick leaves
+Annual health checkup
+13th Month Salary.
+
+Who We Are
+Oivan creates and operates human-centric digital services for our clients worldwide. With offices in Finland, UAE, Thailand, Vietnam and Saudi Arabia, our international team executes a diverse array of projects.
+
+Our international team of digitalization experts manages digital services’ full lifecycle, from design and development to operations and analytics. We are building a fast-growing, transparent, fairness in our teams along with our core values: Responsibility, Fellowship and Reliability. Our commitment to our core Nordic values is reflected in the benefits we offer our workforce.
+
+If you want to work in a cool environment offering flexibility and attractive benefits, being in the same team with driven and talented geeks, then Oivan is your place!
+
+
+Privacy Notice
+Please also be noted that by submitting your application, you agree for Oivan Vietnam to collect/ store/ process/ transfer your personal information for the employment process’s purpose.
