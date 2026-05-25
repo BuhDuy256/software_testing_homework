@@ -16,13 +16,13 @@
 
 | Field | Value |
 |---|---|
-| **Student name (printed):** | |
-| **Student ID:** | |
-| **Class / Cohort:** | |
-| **Assignment ID (e.g., HW#00, HW#02):** | |
-| **Assignment date:** | |
-| **AI tool(s) used:** | |
-| **AI tool(s) used:** | [ ] Yes  [ ] No |
+| **Student name (printed):** | Nguyễn Bảo Duy |
+| **Student ID:** | 23127179 |
+| **Class / Cohort:** | 23KTPM02 |
+| **Assignment ID (e.g., HW#00, HW#02):** | HW01 |
+| **Assignment date:** | Monday, 12 May 2025, 12:00 AM |
+| **AI tool(s) used:** | Claude |
+| **AI tool(s) used:** | [X] Yes  [ ] No |
 
 ---
 
@@ -42,8 +42,9 @@
 
 | (1) Prompt + Tool | (2) AI Output | (3) Verdict | (4) Reasoning (ISTQB) | (5) Student Fix |
 |---|---|---|---|---|
-| **Sample *(italic)* — replace before submission:** | | | | |
-| Tool: AI Tool (e.g., ChatGPT, Claude, Gemini)<br>Time: 14:32 25/02/2026<br>Prompt: "Generate test cases for parsePhoneNumberVN function…" | TC01: parsePhoneNumberVN("0912345678")<br>Expected: {prefix:84, number:912345678, valid:true}<br>… | INCOMPLETE | AI ignored RFC 3966 international format. ISTQB FL §4.3 Boundary Value Analysis requires testing format edges. | Added TC: parsePhoneNumberVN("+84-91-234-5678")<br>Expected: {prefix:84, number:912345678, valid:true} |
+| **Artifact #1**<br>Tool: Claude<br>Prompt: "Convert all the job_description.txt to job_description.md and format markdown for is content" | 10 file `.md` with Headings, Tables, Bold labels and Bullet lists | **PASS** | ... | ... |
+| **Artifact #2**<br>Tool: ...<br>Prompt: ... | ... | ... | ... | ... |
+| **Artifact #3**<br>Tool: ...<br>Prompt: ... | ... | ... | ... | ... |
 | **Artifact #1** | | | | |
 | **Artifact #2** | | | | |
 | **Artifact #3** | | | | |
