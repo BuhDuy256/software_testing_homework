@@ -15,6 +15,8 @@
 | 9 | Nakivo | QA Manager | Yes | The managerial layer is now required to "strategically assess and guide the use of generative AI in QA workflows," meaning AI governance is a HIGH-impact new responsibility that did not exist in traditional QA management; team-building, mentoring, and stakeholder communication remain LOW AI impact, but the manager's effectiveness increasingly depends on knowing where AI automation is safe and where human oversight must remain — a judgment skill the JD explicitly demands. |
 | 10 | Undisclosed | Senior QA/QC Engineer | Yes | This role sits at the frontier of AI's impact: validating LLM outputs, detecting hallucinations, defining subjective quality metrics, and running prompt testing are HIGH-impact tasks that are entirely new to QA and did not exist before AI-driven platforms; traditional automation and test design skills remain important but are now prerequisites alongside LLM evaluation and prompt engineering, which the JD elevates from "nice to have" toward a practical must-have given the AI-platform context. |
 
+> See the JDs in Appendix B.
+
 ## Appendix A: full prompt log (.md or .txt) with timestamps.
 
 ## Appendix B: Job Posting Evidence
