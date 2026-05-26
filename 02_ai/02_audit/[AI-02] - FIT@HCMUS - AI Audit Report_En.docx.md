@@ -40,21 +40,14 @@
 
 ## 3. Audit Table — one row per artifact
 
-| (1) Prompt + Tool | (2) AI Output | (3) Verdict | (4) Reasoning (ISTQB) | (5) Student Fix |
-|---|---|---|---|---|
-| **Artifact #1**<br>Tool: Claude<br>Prompt: "Convert all the job_description.txt to job_description.md and format markdown for is content" | 10 file `.md` with Headings, Tables, Bold labels and Bullet lists | **PASS** | ... | ... |
-| **Artifact #2**<br>Tool: ...<br>Prompt: ... | ... | ... | ... | ... |
-| **Artifact #3**<br>Tool: ...<br>Prompt: ... | ... | ... | ... | ... |
-| **Artifact #1** | | | | |
-| **Artifact #2** | | | | |
-| **Artifact #3** | | | | |
-| **Artifact #4** | | | | |
-| **Artifact #5** | | | | |
-| **Artifact #6** | | | | |
-| **Artifact #7** | | | | |
-| **Artifact #8** | | | | |
-| **Artifact #9** | | | | |
-| **Artifact #10** | | | | |
+### Artifact #0
+
+1. Prompt: 
+2. Tool:
+3. AI Output:
+4. Verdict:
+5. Reasoning:
+6. Student Fix:
 
 ---
 
