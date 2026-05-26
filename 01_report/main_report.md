@@ -2,15 +2,21 @@
 
 ## Requirement 1 – QA/QC Job Market 2026+
 
-| No | Company | Job Title | Have AI skills | AI Impact Analysis |
+| No | Company | Job Title | Requires AI/LLM Skills | AI Impact Analysis |
 | --- | --- | --- | --- | --- |
-| 1 | Undisclosed | QA/QC Intern | N | ... |
-| 2 | SmartOSC | QA Engineer | N | ... |
-| 3 | Oivan | Junior Quality Assurance Engineer | Y | ... |
-| 4 | Undisclosed | QA/QC Engineer (Junior – Middle) | N | ... |
-| 5 | SotaTek | Process Quality Assurance | N | ... |
-| 6 | KMS Technology | QA Automation Engineer | Y | ... |
-| 7 | KMS Technology | Manual QA Engineer | Y | ... |
-| 8 | CLWeb | QA Engineer | Y | ... |
-| 9 | Nakivo | QA Manager | Y | ... |
-| 10 | Undisclosed | Senior QA/QC Engineer | Y | ... |
+| 1 | Undisclosed | QA/QC Intern | No | Most tasks (monitoring quality, liaising with clients, supporting PM) remain LOW-to-MEDIUM impact because they rely on interpersonal coordination and nascent judgment that AI cannot replace at intern level; however, AI can generate draft test cases and documentation (MEDIUM impact), making critical thinking and English communication relatively more important than routine clerical skills. |
+| 2 | SmartOSC | QA Engineer | No | Data collection, weekly status monitoring, and project figure analysis are HIGH-impact AI targets — AI can automate aggregation and surface early warnings — while release-quality judgment and issue forecasting remain MEDIUM impact requiring human experience; the required "good mindset of Quality Assurance" becomes more critical as the engineer shifts from manual number-crunching to interpreting AI-produced insights. |
+| 3 | Oivan | Junior Quality Assurance Engineer | Yes | AI is already embedded as an explicit daily tool in this JD — boilerplate test script generation and refactoring are HIGH-impact tasks where AI does most of the writing — so the engineer's value shifts from code authorship to prompting, reviewing, and validating AI-generated automation; the explicitly required "proven ability to use AI tools" confirms that AI proficiency is now a baseline skill, not a differentiator. |
+| 4 | Undisclosed | QA/QC Engineer (Junior – Middle) | No | Test case development and regression testing carry HIGH AI impact — AI can generate test cases from requirement specs and automate repetitive regression cycles — while defect investigation and cross-functional collaboration remain MEDIUM-to-LOW impact; requirement analysis and exploratory thinking skills become more important because they directly govern the quality of AI-generated test artifacts. |
+| 5 | SotaTek | Process Quality Assurance | No | Data synthesis, statistics, and report generation are HIGH-impact tasks where AI can dramatically reduce manual effort, while CMMi/ISO audit participation and training support remain LOW impact due to formal compliance expertise and mentoring that AI cannot replicate; the required logical thinking and attention to detail grow in importance as the Process QA's role shifts from compiling reports to validating and acting on AI-produced process insights. |
+| 6 | KMS Technology | QA Automation Engineer | Yes | Automation script creation and end-to-end test coverage enhancement are HIGH-impact areas where AI coding assistants can write boilerplate code, suggest new test scenarios, and debug scripts — reducing raw coding effort significantly; the JD's "Nice to Have" AI skills (ChatGPT, Copilot, prompt writing) signal these are becoming practical requirements, shifting the engineer's focus from script authorship to test strategy design and AI-output validation. |
+| 7 | KMS Technology | Manual QA Engineer | Yes | Even in a manual-focused role, AI reaches HIGH impact in competitor research, status reporting, and test data collection — tasks AI can handle in a fraction of manual time — while exploratory testing and sprint collaboration remain MEDIUM impact requiring human judgment; the explicit listing of AI chat tools and coding assistants as "Nice to Have" skills shows that manual QA engineers who can leverage AI for documentation and research now hold a measurable productivity advantage. |
+| 8 | CLWeb | QA Engineer | Yes | The JD explicitly reframes the role as "AI-enabled Quality Engineering," making AI tools HIGH impact across test design, test data preparation, automation authoring, and defect investigation within the Playwright + TypeScript stack; prompt engineering and AI output evaluation shift from optional extras to core responsibilities, especially given the added requirement to test AI-enabled product features — making this one of the most AI-transformed QA roles in the dataset. |
+| 9 | Nakivo | QA Manager | Yes | The managerial layer is now required to "strategically assess and guide the use of generative AI in QA workflows," meaning AI governance is a HIGH-impact new responsibility that did not exist in traditional QA management; team-building, mentoring, and stakeholder communication remain LOW AI impact, but the manager's effectiveness increasingly depends on knowing where AI automation is safe and where human oversight must remain — a judgment skill the JD explicitly demands. |
+| 10 | Undisclosed | Senior QA/QC Engineer | Yes | This role sits at the frontier of AI's impact: validating LLM outputs, detecting hallucinations, defining subjective quality metrics, and running prompt testing are HIGH-impact tasks that are entirely new to QA and did not exist before AI-driven platforms; traditional automation and test design skills remain important but are now prerequisites alongside LLM evaluation and prompt engineering, which the JD elevates from "nice to have" toward a practical must-have given the AI-platform context. |
+
+## Appendix A: full prompt log (.md or .txt) with timestamps.
+
+## Appendix B: Job Posting Evidence
+
+> Find the evidences in "03_requirements/Requirement 1 – QA QC Job Market 2026+/" folder.
