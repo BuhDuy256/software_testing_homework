@@ -42,32 +42,12 @@
 
 ### Artifact 1
 
-1. Prompt: 
-```
-Role: Senior QA/QC Engineer. 
-Context: I collected the 10 QA/QC JDs from many recruitment websites. I also export each Job Description to job_description.md in each sub-folder in @"03_requirements/Requirement 1 – QA QC Job Market 2026+\" . 
-Task: Please read the JDs and fill in the "AI Impact Analysis" columns corresponding to each JD for me. Your reasoning process must follow these steps: 
-1. Please read the "Job Description" Section and "Required Skills" in each JD (because JDs have both Vietnamese Description and English Description, you will think which section name will match with these part). 
-2. With the Job Description, there will be a list of tasks that the employee will work with => You need to rank the AI Impact level (HIGH, MEDIUM, LOW) to each task based on the level that AI will help the employee finish this task => Analyse how AI will help them finish. 
-3. Read the required skills and identify which requirements are becoming more important, less important, or different because of AI. 
-=> Generate 1 - 2 sentences into "AI Impact Analysis" columns that show how AI impacts corresponding to each JD. 
-Constraint: You mustn't self-reason based on the data that didn't exist in job_description.md.
-```
-
-2. Tool: CLAUDE
+1. Prompt:
+2. Tool: 
 3. AI Output:
-
-![alt text]({060D6304-4C14-43B7-86F1-10F1E4DFADC9}.png)
-
 4. Verdict:
-
-VALID
-
 5. Reasoning:
-
-According to ISTQB FL §3.1 and §3.2, a static testing (review) was performed on the AI output. The artifact is marked as VALID because the AI successfully satisfied all instructions, evaluation criteria, and constraints specified in the prompt without introducing any anomalies or external data deviations.
-
-6. Student Fix: None    
+6. Student Fix:    
 
 ### Artifact 2
 
