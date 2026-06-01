@@ -467,4 +467,4 @@ QA/QC Roles 2026
 
 1. "Dynamic execution of software" for Static Testing. => Follows [3.1 Static Testing Fundamental - Self-study document from Lam Quang Vu](https://www.fit.hcmus.edu.vn/~lqvu/Courses/SoftwareTesting/istqb-foundation-selfstudy.html#sec-3-1)
 2. "Test Closure Activities are optional in Agile projects" in Test Process => Must be "Test Completion" accroding to [1.4 Activities & Role of Software Testing](https://www.fit.hcmus.edu.vn/~lqvu/Courses/SoftwareTesting/istqb-foundation-selfstudy.html#sec-1-4)
-3. Career path of SDET is inconsistent: the Automation Tester node records Automation Tester → Senior Automation Engineer → SDET, but the SDET node skips the Senior Automation Engineer step and ends incorrectly at Test Architect—which is a separate track, not part of SDET's natural progression.
+3. Career path of SDET is inconsistent: the Automation Tester node records Automation Tester → Senior Automation Engineer → SDET, but the SDET node skips the Senior Automation Engineer step and ends incorrectly at Test Architect-which is a separate track, not part of SDET's natural progression.

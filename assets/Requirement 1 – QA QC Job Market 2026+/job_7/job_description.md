@@ -4,7 +4,7 @@
 
 ## About KMS Technology
 
-KMS Technology is a strategic engineering company helping businesses turn bold ideas into high-impact solutions — faster. Founded in 2009 as a U.S.-based services company, we've grown into a global organization with locations in the US, Vietnam, Mexico and Poland. KMS is trusted globally for the quality of our engineering and consulting services. We bring deep expertise in product development and quality assurance, Data & AI-native engineering, and delivery excellence to every engagement.
+KMS Technology is a strategic engineering company helping businesses turn bold ideas into high-impact solutions - faster. Founded in 2009 as a U.S.-based services company, we've grown into a global organization with locations in the US, Vietnam, Mexico and Poland. KMS is trusted globally for the quality of our engineering and consulting services. We bring deep expertise in product development and quality assurance, Data & AI-native engineering, and delivery excellence to every engagement.
 
 - **Website:** https://kms-technology.com
 - **LinkedIn:** https://www.linkedin.com/company/kms-technology

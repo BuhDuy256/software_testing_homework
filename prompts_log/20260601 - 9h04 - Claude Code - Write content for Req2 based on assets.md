@@ -8,11 +8,11 @@
   ⎿  Read assets\Requirement 2 – 20 Software Defects 2022–2026\25_software_defects_2022_2026 (AI Output).md (409 lines)
   ⎿  Read report\req2.md (1 lines)
 
-● I'll read the current state of req2.md, then write the report with 7 AI/LLM defects first, followed by 13 general defects — 20 total, no emoji icons.
+● I'll read the current state of req2.md, then write the report with 7 AI/LLM defects first, followed by 13 general defects - 20 total, no emoji icons.
 
   Read 1 file (ctrl+o to expand)
 
-● The file is empty. I'll write all 20 entries now — AI/LLM defects first (all 7), then 13 notable general defects, no icons.
+● The file is empty. I'll write all 20 entries now - AI/LLM defects first (all 7), then 13 notable general defects, no icons.
 
 ● Write(report\req2.md)
   ⎿  Wrote 373 lines to report\req2.md
