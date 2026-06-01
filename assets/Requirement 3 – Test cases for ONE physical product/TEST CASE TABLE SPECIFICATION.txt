@@ -1,0 +1,50 @@
+TEST CASE TABLE SPECIFICATION
+
+Create 15 test cases using the following table structure.
+
+Columns:
+
+1. ID
+- Unique numeric identifier for each test case.
+- Values: 1 to 15.
+
+2. Objective
+- Short name or purpose of the test case.
+- Describes what behavior/function is being verified.
+
+3. Input
+- Test data used for the test case.
+- Include values such as username, password, email, form data, search keyword, uploaded file, or selected option.
+
+4. Steps
+- Step-by-step actions to execute the test case.
+- Use numbered steps.
+- Each step should be clear and executable.
+
+5. Expected
+- Expected system behavior after executing the steps.
+- Describe the correct result that should happen.
+
+6. Actual
+- Actual system behavior observed during execution.
+- Leave blank if the test case has not been executed yet.
+
+7. Verdict
+- Final execution status of the test case.
+- Allowed values:
+  Pass
+  Fail
+  Blocked
+  Not Run
+
+Rules:
+- Use one row per test case.
+- Fill exactly 15 rows.
+- ID must be sequential from 1 to 15.
+- Verdict should be Not Run if Actual is blank.
+- Verdict should be Pass if Actual matches Expected.
+- Verdict should be Fail if Actual does not match Expected.
+- Verdict should be Blocked if the test case cannot be executed due to missing data, environment issue, or dependency issue.
+
+Output table columns:
+ID | Objective | Input | Steps | Expected | Actual | Verdict
