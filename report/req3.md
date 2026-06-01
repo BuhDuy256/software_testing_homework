@@ -14,10 +14,3 @@
 1. Read the **Test Cases - Req 3 - HW01 - Software Testing HCMUS.xlsx**
 2. Or you can read at: https://docs.google.com/spreadsheets/d/1I81gZ3NLiVLveWcfTkFwIGMKeu7QqeqZRpQl7dzqIU8/edit?usp=sharing
 
-### Test cases execution videos
-
-1. Video 1:
-2. Video 2:
-3. Video 3:
-4. Video 4:
-5: Video 5:
