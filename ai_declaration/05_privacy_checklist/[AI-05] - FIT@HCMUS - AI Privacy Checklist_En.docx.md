@@ -34,11 +34,10 @@
 
 - [X] All AI-generated artifacts are tagged in the AI Audit Report.
 - [X] All citations from AI have been verified (sources actually exist).
-- [X] All AI-generated code has been executed and tested.
+- [ ] All AI-generated code has been executed and tested. *(I saw no code was generated in this assignment)*
 - [X] My 200–300-word AI Critique is included in the report.
 - [X] The Mandatory Disclosure paragraph is at the end of my report.
 - [X] I attached the AI Use Disclosure Form.
-
 - [X] I am ready for a 5–7-min random oral defense the week after submission.
 ---
 
@@ -50,12 +49,12 @@
 
 | Field | Value |
 |---|---|
-| **Student name (printed):** | 23127179 |
-| **Student ID:** | Nguyễn Bảo Duy |
-| **Class / Cohort:** | 23127179 |
+| **Student name (printed):** | Nguyễn Bảo Duy |
+| **Student ID:** | 23127179 |
+| **Class / Cohort:** | 23KTPM02 |
 | **Course:** | CS423 / CSC13003 – Software Testing |
 | **Instructor:** | Lâm Quang Vũ |
-| **Date:** | 01/06/2026 |
+| **Date:** | Monday, 01/06/2026 |
 | **Signature:** | Nguyễn Bảo Duy |
 
 ---

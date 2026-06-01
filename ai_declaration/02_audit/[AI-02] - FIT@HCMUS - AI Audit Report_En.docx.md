@@ -20,9 +20,9 @@
 | **Student ID:** | 23127179 |
 | **Class / Cohort:** | 23KTPM02 |
 | **Assignment ID (e.g., HW#00, HW#02):** | HW01 |
-| **Assignment date:** | Monday, 12 May 2025, 12:00 AM |
-| **AI tool(s) used:** | Claude |
-| **AI tool(s) used:** | [X] Yes  [ ] No |
+| **Assignment date:** | Monday, 01/06/2026 |
+| **AI tool(s) used:** | Claude, ChatGPT |
+| **AI used:** | [X] Yes  [ ] No |
 
 ---
 
@@ -173,11 +173,11 @@ Commonly, we need provide enough context and must predict AI behaviors actively 
 | Field | Value |
 |---|---|
 | **Student name (printed):** | Nguyễn Bảo Duy |
-| **Student ID:** | 2312719 |
-| **Class / Cohort:** | 23KTPM2 |
+| **Student ID:** | 23127179 |
+| **Class / Cohort:** | 23KTPM02 |
 | **Course:** | CS423 / CSC13003 – Software Testing |
 | **Instructor:** | Lâm Quang Vũ |
-| **Date:** | 01/06/2026|
+| **Date:** | Monday, 01/06/2026 |
 | **Signature:** | Nguyễn Bảo Duy |
 
 ---

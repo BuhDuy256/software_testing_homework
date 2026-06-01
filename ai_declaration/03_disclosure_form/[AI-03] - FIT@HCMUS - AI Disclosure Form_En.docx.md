@@ -180,7 +180,7 @@ Requirement 3 needed the most checking. The AI assumed the device had push-butto
 |---|---|
 | **Student name (printed):** | Nguyễn Bảo Duy|
 | **Student ID:** | 23127179 |
-| **Class / Cohort:** | 23KTPM2 |
+| **Class / Cohort:** | 23KTPM02 |
 | **Course:** | CS423 / CSC13003 – Software Testing |
 | **Instructor:** | Lâm Quang Vũ |
 | **Date:** | Monday, 01/06/2026 |
