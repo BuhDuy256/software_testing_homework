@@ -1,12 +1,12 @@
 TEST CASE TABLE SPECIFICATION
 
-Create 15 test cases using the following table structure.
+Create 12 test cases using the following table structure.
 
 Columns:
 
 1. ID
 - Unique numeric identifier for each test case.
-- Values: 1 to 15.
+- Values: 1 to 12.
 
 2. Objective
 - Short name or purpose of the test case.
@@ -39,8 +39,8 @@ Columns:
 
 Rules:
 - Use one row per test case.
-- Fill exactly 15 rows.
-- ID must be sequential from 1 to 15.
+- Fill exactly 12 rows.
+- ID must be sequential from 1 to 12.
 - Verdict should be Not Run if Actual is blank.
 - Verdict should be Pass if Actual matches Expected.
 - Verdict should be Fail if Actual does not match Expected.
