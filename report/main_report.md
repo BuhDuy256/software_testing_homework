@@ -942,7 +942,7 @@ The Claude said that researchers believed Google's training process was the main
 2. Brand: DAIKIOSAN
 3. Model: DM102
 4. Year: 2023
-5. Serial Number: N100655964
+5. Serial Number: N100****64
 
 ### Test Cases
 
