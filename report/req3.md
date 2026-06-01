@@ -11,7 +11,8 @@
 
 ### Test Cases
 
-Read the req3_test_cases.xlsx
+1. Read the **Test Cases - Req 3 - HW01 - Software Testing HCMUS.xlsx**
+2. Or you can read at: https://docs.google.com/spreadsheets/d/1I81gZ3NLiVLveWcfTkFwIGMKeu7QqeqZRpQl7dzqIU8/edit?usp=sharing
 
 ### Test cases execution videos
 
