@@ -944,6 +944,10 @@ The Claude said that researchers believed Google's training process was the main
 4. Year: 2023
 5. Serial Number: N100****64
 
+### Image
+
+![THE DEVICE + STUDENT ID CARD](</assets/Requirement 3 – Test cases for ONE physical product/THE DEVICE + Student ID.png>)
+
 ### Test Cases
 
 1. Read the **Test Cases - Req 3 - HW01 - Software Testing HCMUS.xlsx**
